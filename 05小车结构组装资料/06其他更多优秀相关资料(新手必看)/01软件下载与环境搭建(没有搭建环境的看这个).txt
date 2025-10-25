@@ -1,0 +1,5 @@
+KEIL5安装和破解：
+https://www.bilibili.com/video/BV1PS4y1o7A8?spm_id_from=333.337.search-card.all.click
+使用st-link v2给STM32f103c8t6下载程序:
+https://blog.csdn.net/qq_39592312/article/details/109135564
+
